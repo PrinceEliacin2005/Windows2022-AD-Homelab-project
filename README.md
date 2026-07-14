@@ -99,9 +99,6 @@ Created a security group (IT MANAGERS) within the IT Managers OU to begin practi
 
 ![IT Managers OU showing the IT MANAGERS security group alongside its member computer and users](screenshots/22-security-group-list.png)
 
-**Next step:** assign this group NTFS/share permissions on a shared resource to complete the least-privilege access practice.
-
----
 
 ## Troubleshooting
 
